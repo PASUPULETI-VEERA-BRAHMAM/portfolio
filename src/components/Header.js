@@ -30,6 +30,9 @@ export default function Header() {
           <a href="#projects" style={{ margin: "0 10px" }}>
             Projects
           </a>
+          <a href="/resume.pdf" download="My_Resume.pdf">
+            Resume
+          </a>
           <a href="#contact" style={{ margin: "0 10px" }}>
             Contact
           </a>
